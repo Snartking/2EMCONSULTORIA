@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/seu-usuario/site-2em-consultoria.git
+git add .
+git commit -m "Versão inicial do site 2EM Consultoria"
+git branch -M main
+git push -u origin main
